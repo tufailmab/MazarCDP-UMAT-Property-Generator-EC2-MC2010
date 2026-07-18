@@ -7,6 +7,13 @@
     <strong>Mazar Concrete Damage Model</strong> UMAT subroutine used in finite element simulations. Calculations are based on <strong>Eurocode 2 (EC2)</strong> and <strong>Model Code 2010 (MC2010)</strong> to support accurate material modeling for concrete structures.
   </p>
 
+<p>
+  <strong>Cite this Tool:</strong>
+  <a href="https://doi.org/10.5281/zenodo.21425212">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21425212.svg" alt="DOI">
+  </a>
+</p>
+
   </p>
 
   <h2>Key Features</h2>
